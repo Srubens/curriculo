@@ -113,7 +113,6 @@ CONTAINER
     margin-bottom: 12px;
     display:inline-block;
     padding: 10px 20px;
-    
     background: #888;
     border: none;
     cursor: pointer;
@@ -230,12 +229,14 @@ CONTAINER
     color:#000;
     background:none;
     border:1px solid var(--grey);
+    padding: 10px 20px;
 }
 
 .btn-grey-out:hover{
     color:#fff;
     background:var(--grey);
     border:none;
+    padding: 10px 20px;
 }
 
 /* FLEX BOX */
